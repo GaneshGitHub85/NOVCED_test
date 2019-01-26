@@ -1,1 +1,5 @@
-It's mefdfd
+git remote add origin https://github.com/GaneshGitHub85/NOVCED_test.git
+git push -u origin master
+git log -p Display the full diff of each commit.
+git config --global user.name <name> Define the author name to be used for all commits by the current user.
+git config --global user.email <email> Define the author email to be used for all commits by the current user.
